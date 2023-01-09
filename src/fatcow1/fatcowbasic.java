@@ -10,6 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class fatcowbasic {
 	public static void main(String[] args) {
+		//this is change
 	System.setProperty("webdriver.gecko.driver","../fatcow/exe/geckodriver.exe");
     // System.setProperty("webdriver.chrome.driver","../fatcow/exe/chromedriver.exe");
      WebDriver driver=new FirefoxDriver();
